@@ -1,0 +1,8 @@
+# Fisier de date pentru rezervări restaurant
+# Format: ID_Masa Capacitate Disponibilitate(0=libera,1=rezervata) Ora_Rezervare Data_Rezervare(ziua lunii)
+# Numar total de mese: 5
+Masa 1: 4 0 0 0 # ID:1, Capacitate:4, Libera, Fără rezervare
+Masa 2: 2 0 0 0 # ID:2, Capacitate:2, Libera, Fără rezervare
+Masa 3: 8 0 0 0 # ID:3, Capacitate:8, Libera, Fără rezervare
+Masa 4: 5 0 0 0 # ID:4, Capacitate:5, Libera, Fără rezervare
+Masa 5: 12 0 0 0 # ID:5, Capacitate:12, Libera, Fără rezervare
